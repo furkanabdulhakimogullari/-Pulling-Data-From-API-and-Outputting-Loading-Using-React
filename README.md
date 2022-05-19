@@ -1,0 +1,2 @@
+# -Pulling-Data-From-API-and-Outputting-Loading-Using-React
+In this project, we pulled data from the API and performed the "loading" operation using React. When the page is refreshed, "loading" appears while the loading is happening. Only certain phrases are pulled from the link using the API. We did this by downloading and importing the "axios" library. In other words, we performed the "fetch" operation using "axios".
